@@ -32,7 +32,6 @@ USERNAME		PASSWORD
 
 SU00001		=> 	Su1234
 
-SU00002		=> 	Su1234
 
 
 backend :
