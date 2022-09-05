@@ -24,3 +24,24 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Additional Information
+USERNAME		PASSWORD
+---------		-----------
+
+SU00001		=> 	Su1234
+
+SU00002		=> 	Su1234
+
+
+backend :
+    python app.py
+
+
+frontend :
+    npm install
+    npm run serve
+
+
+
