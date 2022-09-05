@@ -1,0 +1,49 @@
+{
+  "name": "all-in",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.3",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.0",
+    "bootstrap-table": "^1.18.3",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^2.9.4",
+    "computed": "0.0.1",
+    "computed-properties": "^0.2.2",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.11",
+    "vue-async-computed": "^3.9.0",
+    "vue-chartjs": "^3.4.2",
+    "vue-cli": "^2.9.6",
+    "vue-easytable": "^2.6.0",
+    "vue-good-table": "^2.21.10",
+    "vue-pivot-table-plus": "^0.7.0",
+    "vue-pivottable": "^0.3.92",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.5.8",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "deepmerge": "^4.2.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.32.13",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
