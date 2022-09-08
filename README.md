@@ -1,7 +1,5 @@
 # data-analysis-tool
 
-# all-in
-
 ## Project setup
 ```
 npm install
